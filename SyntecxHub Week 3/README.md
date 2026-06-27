@@ -16,6 +16,7 @@ This project was completed as **Week 3 Task** during my **Data Analytics Interns
 - Matplotlib
 - Plotly
 - Jupyter Notebook
+- Power BI
 
 ## Problem Solved
 
